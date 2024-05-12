@@ -1,6 +1,6 @@
 def foo():
-    pass
+    print("OLOLO")
 
 
 def func():
-    pass
+    print("LMAO")
